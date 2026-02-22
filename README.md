@@ -1,4 +1,4 @@
-# 🧮  Mini Calculator in C
+# 🧮  Basic Calculator in C
 
 <p align="center">
   <b>✨ Simple | Fast | Clean Logic ✨</b>
@@ -8,7 +8,7 @@
 
 ## 🚀 About Project
 
-This is a simple **Mini Calculator** written in C language.  
+This is a simple **Basic Calculator** written in C language.  
 It performs:
 
 🔹 Addition  
